@@ -30,14 +30,13 @@ export default function HeroBanner() {
               <span className="px-3 py-1 border border-white/40 text-white/80 text-xs rounded uppercase tracking-widest">SUB</span>
             </div>
 
-            <h1 className="font-display text-7xl sm:text-8xl text-white leading-none mb-3 tracking-wide">SQUID<br />GAME</h1>
-            <p className="text-noza-gold text-lg font-medium mb-4 uppercase tracking-widest">Thriller · Drama · Survival</p>
+            <h1 className="font-display text-7xl sm:text-8xl text-white leading-none mb-3 tracking-wide">THE<br />Joker</h1>
+            <p className="text-noza-gold text-lg font-medium mb-4 uppercase tracking-widest">Thriller · Crime · Survival</p>
 
             <div className="w-16 h-px bg-noza-gold mb-5" />
 
             <p className="text-white/70 text-base leading-relaxed mb-8 max-w-lg">
-              456 contestants join a deadly survival game for a huge cash prize, competing in life-or-death versions of childhood games. 
-              As the game progresses, alliances form, betrayals happen, and dark secrets are revealed.
+              Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.
             </p>
 
             <div className="flex gap-4 flex-wrap">
