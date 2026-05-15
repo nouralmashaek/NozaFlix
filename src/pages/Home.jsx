@@ -61,9 +61,7 @@ export default function Home() {
           movies={recentMovies}
         />
 
-        <div className="h-px max-w-7xl mx-auto bg-gradient-to-r from-transparent via-white/10 to-transparent" />
-
-        <ComingSoon />
+        
 
         <div className="h-px max-w-7xl mx-auto bg-gradient-to-r from-transparent via-white/10 to-transparent" />
 
