@@ -1,7 +1,6 @@
 import Navbar from '../components/nozaflix/Navbar';
 import HeroBanner from '../components/nozaflix/HeroBanner';
 import MovieGrid from '../components/nozaflix/MovieGrid';
-import ComingSoon from '../components/nozaflix/ComingSoon';
 import BlogSection from '../components/nozaflix/BlogSection';
 import Footer from '../components/nozaflix/Footer';
 
